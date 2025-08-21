@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: SecondLife
+## Notes: Shows remaining player health percent with a green→red window color gradient.
+## Author: K4m4r0
+## Version: 1.0.0
+## SavedVariables: SecondLifeDB
+
+SecondLife.lua
